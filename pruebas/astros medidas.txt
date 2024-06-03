@@ -1,0 +1,47 @@
+Astro 1
+posicion(filas, columnas) = [0:125,475:608]
+posicionCentro(x,y) = 100, 25
+alto = 125
+ancho = 133
+
+Astro 2
+posicion(filas, columnas) = [40:100,388:450]
+posicionCentro(x,y) = 419, 70
+alto = 60
+ancho = 62
+
+Astro top
+posicion(filas, columnas) = [0:20,313:387]
+posicionCentro(x,y) = 350, 0
+alto = 20
+ancho = 74
+
+Astro 3
+posicion(filas, columnas) = [190:285,115:215]
+posicionCentro(x,y) = 165, 237
+alto = 95
+ancho = 100
+
+Astro 4
+posicion(filas, columnas) = [105:145,124:165]
+posicionCentro(x,y) = 144, 125
+alto = 40
+ancho = 41
+
+Astro 5
+posicion(filas, columnas) = [10:60,53:108]
+posicionCentro(x,y) = 80, 35
+alto = 50
+ancho = 55
+
+Astro 6
+posicion(filas, columnas) = [185:232,0:25]
+posicionCentro(x,y) = 5, 208
+alto = 47
+ancho = 25
+
+
+
+
+
+

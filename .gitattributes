@@ -1,0 +1,2 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+video/la_noche_estrellado_animacion.mp4 filter=lfs diff=lfs merge=lfs -text
